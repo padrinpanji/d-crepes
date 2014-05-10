@@ -48,7 +48,7 @@
                     </li>
 
                 </ul>
-                <a class="brand" href="index.html"><span class="first">Your</span> <span class="second">Company</span></a>
+                <a class="brand" href="index.html"><span class="first">D'Crepes</span> <span class="second"> - Admin Page</span></a>
             </div>
         </div>
 
@@ -301,9 +301,9 @@
                         <hr>
 
                         <!-- Purchase a site license to remove this link from the footer: http://www.portnine.com/bootstrap-themes -->
-                        <p class="pull-right">A <a href="http://www.portnine.com/bootstrap-themes" target="_blank">Free Bootstrap Theme</a> by <a href="http://www.portnine.com" target="_blank">Portnine</a></p>
+                        <p class="pull-right">Template by <a href="http://www.portnine.com" target="_blank">Portnine</a></p>
 
-                        <p>&copy; 2012 <a href="http://www.portnine.com" target="_blank">Portnine</a></p>
+                        <p>&copy; Copyright <?php echo date('Y'); ?> <a href="<?php echo base_url(); ?>" target="_blank">D'Crepes</a></p>
                     </footer>
 
                 </div>
